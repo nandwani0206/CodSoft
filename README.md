@@ -1,2 +1,2 @@
-# CodSoft
+# CodSoft Internship
 CodSoft Internship Tasks
